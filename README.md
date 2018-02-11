@@ -1,10 +1,10 @@
 # chickenshelter
 ## Chicken Shelter: An Online Platform for Chicken Farming Partnership
 
-<p align="center"><img src="https://s.w.org/images/core/emoji/2.4/svg/1f413.svg" width="300" height="300"></p>
-
+<p align="center"><img src="https://s.w.org/images/core/emoji/2.4/svg/1f413.svg" width="300" height="300">
+  
 Let's feed the whole world with proper nutrition! Join us on our mission to provide enough food for everyone. 
-  #EndWorldHunger #NoMorePoverty #FoodForBetterFuture
+  #EndWorldHunger #NoMorePoverty #FoodForBetterFuture</p>
 
 [![license](https://img.shields.io/aur/license/yaourt.svg)]()
 
