@@ -1,6 +1,7 @@
 # chickenshelter
 ## Chicken Shelter: An Online Platform for Chicken Farming Partnership
-![Chicken Shelter](https://s.w.org/images/core/emoji/2.4/svg/1f413.svg =250x250)
+
+<p align="center"><img src="https://s.w.org/images/core/emoji/2.4/svg/1f413.svg" width="300" height="300"></p>
 
 [![license](https://img.shields.io/aur/license/yaourt.svg)]()
 
